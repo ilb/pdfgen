@@ -3,7 +3,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>ru.ilb.pdfgen</groupId>
     <artifactId>pdfgen</artifactId>
-    <version>1.16-SNAPSHOT</version>
+    <version>1.16</version>
     <packaging>pom</packaging>
     <modules>
         <module>pdfgen-resources</module>
@@ -28,7 +28,7 @@
     <scm>
         <connection>scm:git:https://github.com/ilb/${project.name}.git</connection>
         <url>https://github.com/ilb/${project.name}</url>
-        <tag>HEAD</tag>
+        <tag>pdfgen-1.16</tag>
     </scm>
     <!--
     <scm>
